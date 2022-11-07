@@ -67,6 +67,7 @@ body {
     .nav-btn li:hover {
         transform: scale(1.05);
         background-color: rgb(44, 44, 44);
+        cursor: pointer;
     }
 }
 
